@@ -7,6 +7,7 @@ author:lims1
 @function:
 @modify:
 """
+import os
 
 print("hello world")
 print("hello world")
@@ -15,3 +16,4 @@ print("hello world")
 print("hello world")
 print("hello world")
 print("hello world")
+os.mkdir("test")
